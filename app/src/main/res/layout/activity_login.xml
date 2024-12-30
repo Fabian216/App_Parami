@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_fondo4"
+    tools:context=".ActivityLogin">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:gravity="center"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:layout_marginHorizontal="10sp"
+            android:layout_marginBottom="5sp"
+            android:text="Yo soy muy:"
+            android:textColor="@color/black"
+            android:background="#7BFFFFFF"
+            android:textSize="20sp"/>
+
+        <EditText
+            android:id="@+id/etCodUsu2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:layout_marginHorizontal="10sp"
+            android:layout_marginBottom="20sp"
+            android:hint="..."
+            android:textColorHint="@color/black"
+            android:textColor="@color/black"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:layout_marginHorizontal="10sp"
+            android:layout_marginBottom="5sp"
+            android:text="Y soy la más:"
+            android:textColor="@color/black"
+            android:background="#7BFFFFFF"
+            android:textSize="20sp"/>
+
+        <EditText
+            android:id="@+id/etNomUsu3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:layout_marginHorizontal="10sp"
+            android:layout_marginBottom="10sp"
+            android:textSize="20sp"
+            android:hint="..."
+            android:textColorHint="@color/black"
+            android:textColor="@color/black"
+            android:inputType="text" />
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10sp"
+            android:layout_marginHorizontal="50sp"
+            android:text="Iniciar sesion"
+            android:textColor="@color/black"
+            android:backgroundTint="#E5F0DD1C"
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

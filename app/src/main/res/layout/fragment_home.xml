@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_fondo_frag"
+    tools:context=".FragmentHome">
+
+    <LinearLayout
+        android:id="@+id/linearPrincipa"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <FrameLayout
+            android:layout_width="344dp"
+            android:layout_height="550dp"
+            android:layout_marginBottom="100dp">
+
+            <!-- Fondo con transparencia -->
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="550dp"
+                android:background="#90FFFFFF" />
+
+            <LinearLayout
+                android:id="@+id/linearInterior"
+                android:layout_width="344dp"
+                android:layout_height="477dp"
+                android:layout_marginBottom="100dp"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:layout_marginTop="32dp"
+                    android:textColor="@color/black"
+                    android:textSize="30sp"
+                    android:fontFamily="cursive"
+                    android:textStyle="bold"
+                    android:text="@string/ForYou" />
+
+                <TextView
+                    android:id="@+id/tvDedicatoria"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:layout_weight="1"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginHorizontal="20sp"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:fontFamily="serif"
+                    android:text="@string/Dedicatoria"/>
+
+            </LinearLayout>
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+
+</FrameLayout>

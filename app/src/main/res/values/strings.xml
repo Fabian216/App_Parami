@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">ParaMi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="txtStar1">Inicia sesión con tus cualidades,preciosa:</string>
+    <string name="txtStar2">Crea cuentas con tus fortalezas,hermosa:</string>
+
+    <string name="txtSingup1">Escribe tu primera fortaleza, bella:</string>
+    <string name="txtSingup2">Escribe tu segunda fortaleza, linda :</string>
+    <string name="txtSingup3">Repite tu segunda fortaleza, hermosa:</string>
+
+
+    <string name="ForYou">Esto es para ti, mi vida:</string>
+    <string name="Dedicatoria">Hola, hermosa, este presente es una aplicación para ti. El tiempo que le he dedicado
+        ha sido con mucho cariño. Espero te sea útil y te acompañe los días que lo necesites.
+        Me gustaría mencionar también que no olvides que me tienes a mí para darte un abrazo,
+        un consejo o si solo necesitas que te escuche, voy a estar para ti ¿sí? Te quiero mucho.
+        Mil besitos para ti :3
+    </string>
+
+    <!--ACTIVITYS EMOCIONES-->
+    <!--ACTIVITY EMOCION ABURRIDA-->
+    <string name="aburrida_titulo">Estar aburrido no es una emoción mala, hay que verlo con otra perspectiva. :)</string>
+    <string name="aburrida_consejo_uno">Aprende algo nuevo: Hay muchísimos cursos en línea gratuitos o
+        económicos sobre temas interesantes, como cocina, fotografía, jardinería, idiomas, etc. Aprender
+        algo nuevo activa tu mente y puede ser un antídoto contra el aburrimiento.</string>
+    <string name="aburrida_consejo_dos">Practica la creatividad: Dibuja, pinta, escribe o incluso cocina algo
+        diferente. Las actividades creativas no solo ayudan a aliviar el aburrimiento, sino que también
+        permiten expresar emociones y reducir el estrés.</string>
+    <string name="aburrida_consejo_tres">Haz ejercicio o practica yoga: La actividad física te ayuda a
+        liberar endorfinas y a despejar la mente. Incluso una caminata corta o estiramientos pueden reducir
+        el aburrimiento y darte energía.</string>
+    <string name="aburrida_consejo_cuatro">El aburrimiento aunque pueda parecer un tiempo "vacío,"
+        en realidad es un espacio listo para que lo llenes de algo que te inspire y te entusiasme.</string>
+
+    <!--ACTIVITY EMOCION ABURRIDA-->
+    <string name="ansiedad_titulo">Recuerda que la ansiedad es una emoción humana y no estás sola en esto.</string>
+    <string name="ansiedad_consejo_uno">Haz una lista de pensamientos: Si sientes que estás
+        sobrepensando, escribir tus pensamientos te ayuda a soltarlos un poco. No es necesario que
+        sea perfecto, solo anota lo que pasa por tu mente. Esto puede ayudarte a reducir la tensión y a
+        procesar tus pensamientos con claridad.</string>
+    <string name="ansiedad_consejo_dos">Usa la técnica de “5-4-3-2-1”: Observa a tu alrededor e identifica 5
+        cosas que puedas ver, 4 que puedas tocar, 3 que puedas escuchar, 2 que puedas oler y 1 que puedas
+        saborear. Esta técnica te ayuda a anclarte al presente y a reducir el enfoque en la ansiedad.</string>
+    <string name="ansiedad_consejo_tres">Piensa en tres cosas por las que te sientas
+        agradecida en este momento. Puede ser cualquier cosa, desde algo sencillo como el buen clima hasta
+        el apoyo de un ser querido. Esto ayuda a cambiar tu estado mental y a encontrar un punto de calma.</string>
+    <string name="ansiedad_consejo_cuatro">¡Tienes las herramientas para manejarla, y cada pequeño paso
+        que das hacia la calma es una gran victoria!</string>
+
+    <!--ACTIVITY EMOCION ENOJO-->
+    <string name="enojo_titulo">Controlar la ira puede ser un reto pero con estrategia se puede manejar mejor.</string>
+    <string name="enojo_consejo_uno">Usa un método de respiración como el 4-7-8: Inhala durante 4 segundos,
+        mantén la respiración 7 segundos y exhala durante 8 segundos. Este tipo de respiración ayuda a calmar
+        el sistema nervioso y reduce tanto la ansiedad como la irritación.</string>
+    <string name="enojo_consejo_dos">Define tus pensamientos en voz alta o por escrito: A veces, escribir lo
+        que piensas o decirlo en voz alta te ayuda a poner las cosas en perspectiva. Esto puede reducir
+        el impulso de actuar por la ira y también ayuda a controlar el sobrepensamiento.</string>
+    <string name="enojo_consejo_tres">Céntrate en el “aquí y ahora”: Cuando sobrepiensas, puedes quedarte
+        atrapado en futuros posibles o en el pasado. Trata de observar lo que está sucediendo a tu alrededor
+        en el momento presente. Esto ayuda a frenar tanto la ansiedad como el enojo.</string>
+    <string name="enojo_consejo_cuatro">Con paciencia y práctica, puedes ir desarrollando una mayor paz
+        interior y control de tus emociones. Ánimo, preciosa</string>
+
+    <!--ACTIVITY EMOCION FELIZ-->
+    <string name="feliz_titulo">¡Qué felicidad que sientas felicidad! Aprovéchalo al máximo</string>
+    <string name="feliz_consejo_uno">Abraza el momento al máximo: Tómate un segundo para hacer una pausa
+        y realmente sentir la felicidad en tu cuerpo y en tu mente. Observa cómo se siente la felicidad,
+        desde el ritmo de tu respiración hasta la sensación en tu pecho.</string>
+    <string name="feliz_consejo_dos">Haz algo que te guste aún más: Aprovecha tu energía positiva para
+        hacer algo que disfrutes o que te relaje. Cuando estás feliz, tienes más energía y motivación para
+        disfrutar de lo que amas, ¡así que es el momento perfecto!</string>
+    <string name="feliz_consejo_tres">Agradece este momento: Da un breve "gracias" mental o en voz alta.
+        La gratitud aumenta la felicidad y te ayuda a conectar con ese estado de paz y bienestar.</string>
+    <string name="feliz_consejo_cuatro">Recuerda que la felicidad, como cualquier otra emoción, tiene altibajos.
+        Disfruta cada momento feliz sin presión y de manera natural. ¡Mereces sentir toda esa alegría!</string>
+
+    <!--ACTIVITY EMOCION TRISTE-->
+    <string name="triste_titulo">Sentir la tristeza puede ayudarte a procesarla y encontrar poco a
+        poco alivio.</string>
+    <string name="triste_consejo_uno">Permítete sentir: La tristeza es una emoción natural, y es
+        saludable darle espacio. A veces, intentar evitarla solo hace que persista. Acepta que está
+        ahí y recuerda que es temporal, aunque en el momento se sienta intensa.</string>
+    <string name="triste_consejo_dos">Escribe lo que sientes: A veces, poner en palabras lo que estás
+        experimentando ayuda a procesarlo. No te preocupes por cómo suene, simplemente deja que fluya.
+        Esto también puede darte una nueva comprensión de lo que estás sintiendo.</string>
+    <string name="triste_consejo_tres">Haz algo que normalmente te tranquilice: Escucha música, ve una
+        película que te guste o realiza alguna actividad relajante. Aunque no cambie cómo te sientes al
+        instante, estas actividades pueden ayudarte a encontrar algo de paz.</string>
+    <string name="triste_consejo_cuatro">La tristeza es solo una de las muchas emociones humanas, y
+        sentirla también forma parte de la vida. Date el tiempo que necesites, y recuerda que la calma
+        vuelve poco a poco.</string>
+
+    <!--ACTIVITY EMOCION MIEDO-->
+    <string name="miedo_titulo">Todos tenemos momentos de duda y temor, pero esas emociones son solo
+        una pequeña parte de toda tu fortaleza.</string>
+    <string name="miedo_consejo_uno">Respira profundamente y despacio: Al sentir miedo, es común que
+        la respiración se vuelva rápida y superficial. Respira profundamente y lentamente,
+        enfocándote en tu respiración. Esto ayuda a calmar el sistema nervioso y a reducir la
+        reacción física al miedo.</string>
+    <string name="miedo_consejo_dos">Usa afirmaciones de seguridad: Repetir frases como “Puedo
+        enfrentar esta situación” puede ayudarte a tranquilizar la mente. Estas frases te recuerdan
+        que tienes el control de tu reacción ante el miedo.</string>
+    <string name="miedo_consejo_tres">Concéntrate en el presente: A menudo, el miedo nos lleva a
+        pensar en el futuro o en escenarios hipotéticos. Tratar de centrarte en lo que ocurre en
+        este momento puede ayudarte a reducir la ansiedad y la reacción emocional al miedo.</string>
+    <string name="miedo_consejo_cuatro">Confía en ti, porque eres mucho más capaz y fuerte de lo que
+        a veces sientes. ¡Estás construyendo una versión de ti mismo cada vez más valiente y
+        resiliente, preciosa!</string>
+
+</resources>
